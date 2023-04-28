@@ -8,5 +8,5 @@ To simulate a population of 10,000 in silico exons (Fig. Xxx in <citation of the
 
 Additionally, this repository contains Excel data files (exon_definition_data1.7.xlsx, exon_definition_data3.5.xlsx, intron_definition_data1.7.xlsx, and intron_definition_data3.5.xlsx) containing stimulation values for exon and intron definition models with perturbations of 1.7 or 3.5.
 
-If you're interested in learning more about the specifics of gene splicing and the differences between the exon definition and intron definition models, please see the included documentation.
+If you're interested in learning more about the specifics of gene splicing and the differences between the exon definition and intron definition models, please see the included documentation(reference supplementary data in the article).
  
