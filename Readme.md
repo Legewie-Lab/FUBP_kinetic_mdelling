@@ -1,6 +1,6 @@
 
 
-This repository provides MATLAB code for two different models of gene splicing: exon definition and intron definition. In exon definition, splicing occurs when specific sequences within exons are recognized by the spliceosome. In intron definition, splicing occurs when the spliceosome recognizes the junction between the intron and exon.
+This repository provides MATLAB code for two different models of gene splicing: exon definition and intron definition.
 
 The exon_definition_ode.m and intron_definition_ode.m files contain the differential equations for the respective models, while the solv_ode_exondef.m and solv_ode_introndef.m files solve the differential equations for each model.
 
