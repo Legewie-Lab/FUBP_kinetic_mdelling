@@ -1,5 +1,9 @@
 
 
+[![DOI](https://zenodo.org/badge/617840071.svg)](https://zenodo.org/badge/latestdoi/617840071)
+
+
+
 This repository provides MATLAB code for two different models of gene splicing: exon definition and intron definition.
 
 The exon_definition_ode.m and intron_definition_ode.m files contain the differential equations for the respective models, while the solv_ode_exondef.m and solv_ode_introndef.m files solve the differential equations for each model.
